@@ -18,6 +18,8 @@ Features include:
 7. Users can also unlock individual content by paying for one-time SBT (Soul Bound Token).
 
 ![screenshot](./screenshot.png)
+
+
 ## Tech Stack
 
 * Eliza AI
